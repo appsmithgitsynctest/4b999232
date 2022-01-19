@@ -2,8 +2,8 @@
   "pluginType": "JS",
   "pluginId": "js-plugin",
   "unpublishedAction": {
-    "name": "myFun1",
-    "fullyQualifiedName": "ParentJsAction1.myFun1",
+    "name": "myFun2",
+    "fullyQualifiedName": "ParentJsAction1.myFun2",
     "datasource": {
       "name": "UNUSED_DATASOURCE",
       "pluginId": "js-plugin",
@@ -13,7 +13,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "ParentPage1",
+    "pageId": "ParentPageRenamed",
     "collectionId": "61e7bea7f0986422bef43447",
     "actionConfiguration": {
       "paginationType": "NONE",
@@ -40,8 +40,8 @@
     "userPermissions": []
   },
   "publishedAction": {
-    "name": "myFun1",
-    "fullyQualifiedName": "ParentJsAction1.myFun1",
+    "name": "myFun2",
+    "fullyQualifiedName": "ParentJsAction1.myFun2",
     "datasource": {
       "name": "UNUSED_DATASOURCE",
       "pluginId": "js-plugin",
@@ -51,7 +51,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "ParentPage1",
+    "pageId": "ParentPageRenamed",
     "collectionId": "61e7bea7f0986422bef43447",
     "actionConfiguration": {
       "paginationType": "NONE",
@@ -77,12 +77,12 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "61e7bea7f0986422bef43445",
+  "id": "61e7bea7f0986422bef43446",
   "deleted": false,
   "userPermissions": [
     "read:actions",
     "execute:actions",
     "manage:actions"
   ],
-  "gitSyncId": "61e7be6ff0986422bef4342b_61e7be99f0986422bef43437"
+  "gitSyncId": "61e7be6ff0986422bef4342b_61e7be99f0986422bef43439"
 }
