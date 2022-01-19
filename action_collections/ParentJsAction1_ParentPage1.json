@@ -1,0 +1,58 @@
+{
+  "unpublishedCollection": {
+    "name": "ParentJsAction1",
+    "pageId": "ParentPage1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actionIds": [],
+    "defaultToBranchedArchivedActionIdsMap": {},
+    "archivedActionIds": [],
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n\tmyVar1: [],\n\tmyVar2: {},\n\tmyFun1: () => {\n\t\t//write code here\n\t},\n\tmyFun2: () => {\n\t\t//write code here\n\t}\n}",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": []
+      },
+      {
+        "name": "myVar2",
+        "value": {}
+      }
+    ]
+  },
+  "publishedCollection": {
+    "name": "ParentJsAction1",
+    "pageId": "ParentPage1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "defaultToBranchedActionIdsMap": {
+      "61e7be99f0986422bef43438": "61e7be99f0986422bef43438",
+      "61e7be99f0986422bef4343a": "61e7be99f0986422bef4343a"
+    },
+    "actionIds": [],
+    "defaultToBranchedArchivedActionIdsMap": {},
+    "archivedActionIds": [],
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n\tmyVar1: [],\n\tmyVar2: {},\n\tmyFun1: () => {\n\t\t//write code here\n\t},\n\tmyFun2: () => {\n\t\t//write code here\n\t}\n}",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": []
+      },
+      {
+        "name": "myVar2",
+        "value": {}
+      }
+    ]
+  },
+  "id": "61e7be99f0986422bef4343c",
+  "deleted": false,
+  "userPermissions": [
+    "read:actions",
+    "execute:actions",
+    "manage:actions"
+  ],
+  "gitSyncId": "61e7be6ff0986422bef4342b_61e7be99f0986422bef4343b"
+}
